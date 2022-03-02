@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some breathings of the Father's love flowing forth unto the young convinced of the Holy way and blessed truth of the Lord. Unto whom be multiplied and daily increased divine love, grace and everlasting peace from God the Father, and our Lord Jesus Christ.</title>
+            <author>Lea, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49854</idno>
+            <idno type="STC">Wing L766</idno>
+            <idno type="STC">ESTC R220077</idno>
+            <idno type="EEBO-CITATION">99831506</idno>
+            <idno type="PROQUEST">99831506</idno>
+            <idno type="VID">35969</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35969)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2050:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some breathings of the Father's love flowing forth unto the young convinced of the Holy way and blessed truth of the Lord. Unto whom be multiplied and daily increased divine love, grace and everlasting peace from God the Father, and our Lord Jesus Christ.</title>
+                  <author>Lea, Francis.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Signed and dated on p. 8: Southwark, 25th 4th mon. 1673. Francis Lea.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+               <term>God --  Worship and love --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35969:1"/>
+            <!-- PDF PAGE 10 -->
+            <head>SOME BREATHINGS OF THE Father's Love, Flowing forth unto the <hi>Young-Convinced</hi> of the Holy WAY and Bleſſed TRUTH of the LORD.</head>
+            <head type="sub">Unto whom be Multiplied and Daily Increaſed Divine Love, Grace and Everlaſting Peace from GOD the Father, and our Lord JESUS CHRIST.</head>
+            <p>
+               <hi>DEar Tender-hearted Ones,</hi> who have felt the Di<g ref="char:EOLhyphen"/>vine Call of the Father's Love, and have now turned your Faces <hi>Sion</hi>-ward, doth my Love flow forth unto you from the Fontain and Ocean of End<g ref="char:EOLhyphen"/>leſs Life and Love, which at this time conſtrains me thus to write unto you, knowing right well, that the Exerciſes and Tryals you are paſſing through, and the Beſettings of the Enemy, that ye may meet withal, are many, ſince your Faces have been turned <hi>Zion</hi>-ward, and ſince you have Abandoned and Forſaken <hi>E<g ref="char:EOLhyphen"/>gypts</hi> Glory, and are now come down from the Moun<g ref="char:EOLhyphen"/>tains of Prey, having ſeen the Excellency and Beauty that is in him alone, who hath called you with a Holy
+<pb n="2" facs="tcp:35969:2"/>
+               <!-- PDF PAGE 11 -->Call unto Meekneſs and Lowlineſs of Mind, ſaying, <hi>Learn of me, for I am meek and Lowly in Heart, and you ſhall find Reſt unto your Souls:</hi> Which in meaſure you will come to witneſs, as through Obedience you have learned of him, and with Faithfulneſ, have obeyed his Voice. For no otherwayes can you ever come to witneſs Peace with him, but through Hearkening unto his Voice, and faith<g ref="char:EOLhyphen"/>fully Obeying the ſame. And thus you will come to be Children of Faithful <hi>Abraham,</hi> who was ready to offer up his only Son <hi>Iſaac</hi> at Gods Call, not ſtaggering at the Promiſe, but firmly believing him that had promiſed, whoſe Faith was accounted unto him for Righteouſneſs.</p>
+            <p>Let none therefore have an Heart of Unbelief, and diſtruſt the Lord, and ſay, <hi>Can the Lord furniſh a Table in the Wilderneſs? Can he prepare Bread there?</hi> Nor let any think the Time Long, or the Way Tedious, wherein the Lord leads you; <hi>For he that believeth maketh not Haſte.</hi> But let your Eye be unto him alone, who turneth the Rock into a Standing Water, and the Flint into a Foun<g ref="char:EOLhyphen"/>tain of Waters; who will give Bread to the Hungry, and Water to the Thirſty Souls in his due Time. For there was a time, when the Lord Proved and Tryed <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> of Old; who will alſo Prove and Try you. There<g ref="char:EOLhyphen"/>fore take heed, that you Murmur not under the ſame, leſt, like <hi>Iſrael,</hi> you Grieve the Lord, and he cauſe you to fall ſhort of the <hi>Promiſed Land.</hi> For you muſt not ex<g ref="char:EOLhyphen"/>pect, becauſe you are come out of <hi>Egypt,</hi> and have ſeen the Wonders of the Lord in the Deep, and have ſung the Song of <hi>Moſes,</hi> that all is over: For there is a Wil<g ref="char:EOLhyphen"/>derneſs yet to paſs through, and a Swelling <hi>Jordan</hi> to paſs over, before you will come to the Promiſed Land. I write not this to diſcourage any, but that none might take up a falſe Reſt, or ſit down by the way, and ſo fall
+<pb n="3" facs="tcp:35969:2"/>
+               <!-- PDF PAGE 11 -->ſhort of that Reſt which many are entred into, and made Poſſeſſors off. But that all might be of that Excellent Spirit, as <hi>Caleb</hi> and <hi>Joſhua</hi> were of, who inherited the Promiſed Land by following the Lord faithfully, and with full Purpoſe of Heart; notwithſtanding they ſaw many Thouſands fall, and Periſh in the Wilderneſs by reaſon of their Diſobedience towards God.</p>
+            <p>And be ſure, that no <hi>Singularity</hi> be embraced or walked in by you; for that will lead to make Rents and Diviſi<g ref="char:EOLhyphen"/>ons in the Camp of the Lord, as ſome of that Spirit in dayes paſt did, who ſaid, <hi>Hath the Lord only ſpoke by</hi> Mo<g ref="char:EOLhyphen"/>ſes? <hi>You</hi> Moſes <hi>and</hi> Aaron, <hi>you take too much upon you; for the Congregation is all Holy, and the Lord is among them. Wherefore then lift you up your ſelves above the Congregation of the Lord?</hi> But what befel theſe Oppoſers of <hi>Moſes</hi> and <hi>Aaron? The Earth opened, and ſwallowed them up in the ſight of the People:</hi> And the Earthly Part hath ſwallowed and will ſwallow up all ſuch Oppoſers. Wherefore let all be Warned of theſe things, and Watch againſt them in the Light, which diſcovers the Wiles of the E<g ref="char:EOLhyphen"/>nemy: and take heed, leſt any of you alſo ſhould come to be led away with the Error of the Wicked, and ſo fall from your own Stedfaſtneſs, and there by come to loſe that Simplicity in the Truth which you once enjoyed. But let <hi>Others Harms</hi> make you to be the more Vigilant, and Beware. For all theſe things were written for your Lear<g ref="char:EOLhyphen"/>ning, and your Inſtruction, that ye might not Tempt and Provoke the Lord, as they did, with whom the Lord was grieved Forty Years long, ſo that he ſware in his Wrath, <hi>That they ſhould not enter into his Reſt.</hi>
+            </p>
+            <p>And let none look at the ſwelling <hi>Jordan,</hi> or the Migh<g ref="char:EOLhyphen"/>ty Sons of <hi>Anak,</hi> nor at the Fenced and Walled Cities; <hi>For the Willing and the Obedient ſhall inherit, and dwell in, and
+<pb n="4" facs="tcp:35969:3"/>
+                  <!-- PDF PAGE 12 -->eat the Good of the Land.</hi> Wherefore let all be encouraged to <hi>Travel on; for they that Endure to the End, ſhall reap the End of their Faith, the Salvation of their Souls.</hi> Therefore let none faint, nor look at their own Weakneſs, but let them keep their Eye unto the Lord, who is faithful to perform, what he has promis'd and ſpoken by the Mouth of his <hi>Pro<g ref="char:EOLhyphen"/>phet,</hi> who ſaid, <hi>To you that fear my Name, ſhall the Sun of Righ<g ref="char:EOLhyphen"/>teouſneſs ariſe with Healing in his Wings; and ye ſhall go forth, and grow up as Calves in the Stall; and ye ſhall tread down the Wicked, for they ſhall be Aſhes under the Soals of your Feet.</hi> So as you dwell &amp; patiently wait in God's Fear, ye will come to witneſs the fulfilling of theſe things in your Meaſures: <hi>For it is the Fear of God that keepeth the Heart clean, and is the Beginning of true Wiſdom.</hi> And as you dwell in that, you will be made able ſtedfaſtly to reſiſt the Enemy of your Souls, when-ever he appears to draw you into Evil, ſay<g ref="char:EOLhyphen"/>ing unto him, <hi>How ſhall I do this Evil, and ſin againſt the Lord?</hi> So, the Lord being alwayes thus ſet before you, ye need not fear: for the Wicked One can never touch you, while ye ſtand thus in an <hi>holy Awe of Offending the Lord.</hi> But if you are not <hi>Vigilant,</hi> and alwayes <hi>Watching in the Light,</hi> the <hi>Enemy</hi> will ſoon prevail, and take you <hi>Captive</hi> again: <hi>For he goes about like a Roaring Lyon, ſeeking whom he may de<g ref="char:EOLhyphen"/>vour:</hi> Whoſe Snares and ſubtil Devices are ſo many, that none can eſcape them, but thoſe who thus wait and watch againſt them in the Light.</p>
+            <p>Wherefore, <hi>Dear Hearts,</hi> Put on the whole Armour of Light, and in that Light which convinced you all, walk and dwell, and it will bring you unto the perfect Day, in which is no Darkneſs; and thus you will be Witneſſes of the <hi>Juſt Man's Path, which is as a ſhining Light, which ſhines more and more unto the perfect Day.</hi> So all that come to walk in this Light, will ſee more Light, as one did who ſaid,
+<pb n="5" facs="tcp:35969:3"/>
+               <!-- PDF PAGE 12 -->
+               <hi>In thy Light ſhall I ſee more Light.</hi> And ſo as this Light in<g ref="char:EOLhyphen"/>creaſes, Darkneſs will decreaſe: for when the Perfect Day is come, then Darkneſs is fled away.</p>
+            <p>And hither muſt all the <hi>Nations</hi> come, that are ſa<g ref="char:EOLhyphen"/>ved to walk in the Light, which the Lord will ſend forth more and more, that thoſe who are yet under the Region and Shadow of Death, may come to behold it, and the Glory and Excellency that is in it, which is the <hi>Glory, as of the Only Begotten of the Father, full of Grace and Truth,</hi> which a <hi>Remnant</hi> are come to behold, Glory to God on high for evermore! For Light ſhineth in Darkneſs, though the Darkneſs cannot comprehend it, which we have believed in, and from whom we have received Power to become the Sons and Daugh<g ref="char:EOLhyphen"/>ters of God, who is Light, and in whom is no Dark<g ref="char:EOLhyphen"/>neſs. neither any Variableneſs or Shadow of Turning, but the ſame Yeſter-day, to day and for ever.</p>
+            <p>And ſo, <hi>Dear Tender-Hearted Ones,</hi> Keep low in the Holy Truth of God, and that will be your Crown; for true and deep Humility is Real Chriſtianity. For while ye are Meek and Lowly in Heart, ye will bear in your Bodies the Marks of the Lord <hi>Jeſus,</hi> and then will it be ſeen, whoſe Diſciples ye are. And while the meek Spirit of <hi>Jeſus</hi> bears Rule in you, that will keep down all Haſtineſs, and Raſh and Unadviſed Words, which you are to dye daily unto, who would live with Chriſt for ever. Who when he was reviled, reviled not again, but when buffeted, ſaid, <hi>Father, forgive them.</hi> Thus we are to have Chriſt for our Example; who dyed, that we ſhould no more live unto our ſelves, but unto him that dyed for us, leaving us an Example, that we ſhould follow his Steps, in whom was no Sin, neither was Guile found in his Mouth. For we are but
+<pb n="6" facs="tcp:35969:4"/>
+               <!-- PDF PAGE 13 -->as other People, except we live unto Chriſt, who dy<g ref="char:EOLhyphen"/>ed for us, the Benefit of whoſe Death none will reap, but ſuch as live unto him, in whom we have believed; in whom is Life, and his Life is the Light of Men. And though to the Carnal Profeſſors he is a ſtumbling-Block, and to the Learned (ſo accounted) Fo liſhneſs, yet unto us that have believed, the Power and Wiſdom of God.</p>
+            <p>So let all be content with, and faithful unto the Mea<g ref="char:EOLhyphen"/>ſure of Gods Grace, that unto you hath appeared. And let the tender Mercies of God towards you be o<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en in your Remembrance, that none, like <hi>Jeſurun,</hi> wax fat, and kick againſt their <hi>Maker,</hi> and ſo through Diſobedience looſe the Enjoyment of his Preſence, and then come to ſay, as <hi>Saul</hi> once did, <hi>The Lord is departed from me, and an<g ref="char:EOLhyphen"/>ſwereth me no more.</hi> But that you all, like faithful <hi>Jo<g ref="char:EOLhyphen"/>ſhua,</hi> may alwayes feel that <hi>Noble Reſolution</hi> dwelling and abiding in your Hearts, <hi>I and my Houſe will ſerve the Lord.</hi> For his Service is perfect Freedom unto thoſe that abide therein, and deſire to live in his Courts, eſteeming one day there above a Thouſand elſe-where.</p>
+            <p>And let Truth grow, and flouriſh in you, that you may be as Trees planted by the Water-Brook, whoſe Leaves are alwayes green bringing forth Fruit in due Seaſon unto God, which muſt be <hi>Holineſs,</hi> the End whereof will be Everlaſting Life. For the Wages of Sin is Death, but the Gift of God, which you have believed in, is Eternal Life unto all that abide in the ſame. For you know right well that when you were Servants unto Sin, you were free from Righteouſneſs; and what Fruit had you then in thoſe things, whereof you are now aſhamed? Therefore let not Sin reign in your Mortal Bodies, neither obey any, but reſiſt and ab<g ref="char:EOLhyphen"/>ſtain
+<pb n="7" facs="tcp:35969:4"/>
+               <!-- PDF PAGE 13 -->from every Appearance thereof, and yield your<g ref="char:EOLhyphen"/>ſelves unto God, as thoſe that are alive from the Dead, and your Members as Inſtruments of Righteouſneſs unto him; and obey the Form of Doctrine, which hath been often delivered unto you by many of the Lord's Faith<g ref="char:EOLhyphen"/>ful Servants, who have not loved their Lives unto Death for the Truth and your Sakes, <hi>for whom they have travelled in Birth, that Chriſt might be formed in you;</hi> whom you ought to Honour and Eſteem with double Honour in the Lord, whoſe Meſſage they have with Faithfulneſs deli<g ref="char:EOLhyphen"/>vered unto you, Woing and Beſeeching you in Chriſt's ſtead to be reconciled unto God, whoſe Will is your San<g ref="char:EOLhyphen"/>ctification.</p>
+            <p>Wherefore as you all have received Chriſt Jeſus, ſo walk in him, <hi>not Adorning nor F<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhioning your ſelves accor<g ref="char:EOLhyphen"/>ding to the World, which lies in Wickedneſs; but let your Ador<g ref="char:EOLhyphen"/>ning be the Meek Spirit and Self-denying Life of Jeſus, bearing the Image of the Heavenly Man, as you have born the Image of the Earthly, which muſt be put off with his Deeds, before you can witn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs to be cloathed with Zeal as a Cloak, and Righteouſneſs as a Garment.</hi> And as your Lights thus ſhine before Men, your Heavenly Father will come to be Glorified; <hi>For herein is, and will he be Glorified, by your bringing forth much frui<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> So be fr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul, and always abounding in the Work o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord, and your Labour will not be in vain in him, <hi>whoſe Mercies are over all his Works, and with-holds no Good Thing from thoſe that w<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lk Uprightly.</hi>
+            </p>
+            <p>Now the God of Peace, <hi>that brought again from the Dead our Lord <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſus Chriſt through the Blood of the Everlaſting Co<g ref="char:EOLhyphen"/>venant,</hi> Sanctifie you throughout, and preſerve you Blame<g ref="char:EOLhyphen"/>leſs, that you may be made Perfect in every Good Work
+<pb n="8" facs="tcp:35969:5"/>
+               <!-- PDF PAGE 14 -->to do his Will, working in you that which is Well-plea<g ref="char:EOLhyphen"/>ſing in his Sight through Chriſt Jeſus, in whom we have believed, is the Hearty Deſire and Travel of</p>
+            <closer>
+               <signed>Your dear Brother in the Everlaſting Truth and Goſpel, which is revealed unto us through the Son of the Father's Love, <hi>Francis Lea.</hi>
+               </signed> 
+               <dateline>Southwark, <date>25th 4th Mon. 1673.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:35969:5"/>
+            <!-- PDF PAGE 14 -->
+         </div>
+      </body>
+   </text>
+</TEI>
